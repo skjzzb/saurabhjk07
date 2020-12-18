@@ -1,7 +1,7 @@
 ### Hi there, This is Saurabh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="www.linkedin.com/in/saurabh-jadhav-961917121">
-  <img align="left" alt="Saurabh Jadhav | Linkedin" width="20px" src="https://raw.githubusercontent.com/Saurabh07Jadhav/Saurabh07Jadhav/master/assets/linkedin.svg" />
+  <img align="left" alt="Saurabh Jadhav | Linkedin" width="20px" src="https://github.com/skjzzb/saurabhjk07/blob/main/assets/linkedin.svg" />
 </a>
 
 
